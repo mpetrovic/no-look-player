@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ActivityAppStart!</string>
+    <string name="app_name">FolderPlay</string>
+    <string name="start_folders">Folders</string>
+    <string name="start_help">Select what we will cycle through:</string>
+
+</resources>
